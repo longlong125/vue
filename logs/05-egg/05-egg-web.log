@@ -1,0 +1,120 @@
+2020-11-21 14:13:50,825 ERROR 24328 [-/127.0.0.1/-/6ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\study\dafeng\05-egg\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\study\dafeng\05-egg\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\study\dafeng\05-egg\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\study\dafeng\05-egg\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\study\dafeng\05-egg\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\study\dafeng\05-egg\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at D:\study\dafeng\05-egg\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\study\dafeng\05-egg\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (D:\study\dafeng\05-egg\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\study\dafeng\05-egg\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 24328
+hostname: ALIENWARE
+
+2020-11-21 14:20:59,527 ERROR 24328 [-/127.0.0.1/-/2ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\study\dafeng\05-egg\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\study\dafeng\05-egg\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\study\dafeng\05-egg\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\study\dafeng\05-egg\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\study\dafeng\05-egg\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\study\dafeng\05-egg\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at D:\study\dafeng\05-egg\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\study\dafeng\05-egg\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (D:\study\dafeng\05-egg\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\study\dafeng\05-egg\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 24328
+hostname: ALIENWARE
+
+2020-11-21 14:21:14,994 ERROR 24328 [-/127.0.0.1/-/2ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\study\dafeng\05-egg\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\study\dafeng\05-egg\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\study\dafeng\05-egg\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\study\dafeng\05-egg\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\study\dafeng\05-egg\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\study\dafeng\05-egg\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at D:\study\dafeng\05-egg\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\study\dafeng\05-egg\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (D:\study\dafeng\05-egg\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\study\dafeng\05-egg\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 24328
+hostname: ALIENWARE
+
+2020-11-21 14:21:15,329 ERROR 24328 [-/127.0.0.1/-/2ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\study\dafeng\05-egg\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\study\dafeng\05-egg\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\study\dafeng\05-egg\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\study\dafeng\05-egg\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\study\dafeng\05-egg\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\study\dafeng\05-egg\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at D:\study\dafeng\05-egg\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\study\dafeng\05-egg\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (D:\study\dafeng\05-egg\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\study\dafeng\05-egg\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 24328
+hostname: ALIENWARE
+
+2020-11-21 14:21:15,480 ERROR 24328 [-/127.0.0.1/-/1ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\study\dafeng\05-egg\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\study\dafeng\05-egg\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\study\dafeng\05-egg\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\study\dafeng\05-egg\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\study\dafeng\05-egg\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\study\dafeng\05-egg\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at D:\study\dafeng\05-egg\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\study\dafeng\05-egg\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (D:\study\dafeng\05-egg\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\study\dafeng\05-egg\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 24328
+hostname: ALIENWARE
+
+2020-11-21 14:21:15,647 ERROR 24328 [-/127.0.0.1/-/1ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\study\dafeng\05-egg\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\study\dafeng\05-egg\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\study\dafeng\05-egg\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\study\dafeng\05-egg\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\study\dafeng\05-egg\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\study\dafeng\05-egg\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at D:\study\dafeng\05-egg\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\study\dafeng\05-egg\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (D:\study\dafeng\05-egg\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\study\dafeng\05-egg\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 24328
+hostname: ALIENWARE
+
+2020-11-21 14:21:15,807 ERROR 24328 [-/127.0.0.1/-/2ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\study\dafeng\05-egg\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\study\dafeng\05-egg\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\study\dafeng\05-egg\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\study\dafeng\05-egg\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\study\dafeng\05-egg\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\study\dafeng\05-egg\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at D:\study\dafeng\05-egg\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\study\dafeng\05-egg\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (D:\study\dafeng\05-egg\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\study\dafeng\05-egg\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 24328
+hostname: ALIENWARE
+
+2020-11-21 14:21:15,991 ERROR 24328 [-/127.0.0.1/-/1ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\study\dafeng\05-egg\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\study\dafeng\05-egg\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\study\dafeng\05-egg\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\study\dafeng\05-egg\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\study\dafeng\05-egg\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\study\dafeng\05-egg\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at D:\study\dafeng\05-egg\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\study\dafeng\05-egg\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (D:\study\dafeng\05-egg\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\study\dafeng\05-egg\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 24328
+hostname: ALIENWARE
+
